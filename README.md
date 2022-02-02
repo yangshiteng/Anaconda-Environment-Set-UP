@@ -46,5 +46,5 @@ conda list
 
 ## 1. virtual environment 
 
-
+python -m venv [environment name] python=[version]
 
