@@ -12,6 +12,8 @@ conda update conda
 
 conda create --name [environment name] python=[python version such as 3.9] [packages]
 
+if failed, try this code before the creation: conda config --set ssl_verify false
+
 ## 4. activate new environement
 
 conda activate [environment name]
@@ -39,3 +41,10 @@ conda install [package name]
 ## 10. Check installed packages
 
 conda list
+
+# VS code 
+
+## 1. virtual environment 
+
+
+
