@@ -1,5 +1,7 @@
 # Anaconda
 
+https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
+
 ## 1. check conda version
 
 conda --version
@@ -47,6 +49,8 @@ conda list
 conda env remove -n [environment name]
 
 # VS code 
+
+https://code.visualstudio.com/docs
 
 ## 1. virtual environment 
 
