@@ -1,4 +1,4 @@
-# Anaconda Code
+# Anaconda
 
 ## 1. check conda version
 
@@ -41,6 +41,10 @@ conda install [package name]
 ## 10. Check installed packages
 
 conda list
+
+## 11. remove conda environment
+
+conda env remove -n [environment name]
 
 # VS code 
 
