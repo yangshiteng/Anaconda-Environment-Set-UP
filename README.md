@@ -56,3 +56,7 @@ https://code.visualstudio.com/docs
 
 python -m venv [environment name] python=[version]
 
+## 2. Select Interpreter
+
+Python: Select Interpreter (ctrl+shift+P)
+
