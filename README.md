@@ -54,7 +54,7 @@ https://code.visualstudio.com/docs
 
 ## 1. virtual environment 
 
-python -m venv [environment name] python=[version]
+python -m venv [environment name]
 
 ## 2. Select Interpreter
 
