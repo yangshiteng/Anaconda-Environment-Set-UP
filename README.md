@@ -60,3 +60,7 @@ python -m venv [environment name]
 
 Python: Select Interpreter (ctrl+shift+P)
 
+## 3. Version Controlling with Git in Visual Studio Code and Azure DevOps
+
+https://www.azuredevopslabs.com/labs/azuredevops/git/#task-2-reviewing-commits
+
