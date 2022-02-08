@@ -68,3 +68,7 @@ https://www.azuredevopslabs.com/labs/azuredevops/git/#task-2-reviewing-commits
 
 pip install --user -r requirements.txt
 
+## 5. NLTK install
+
+ python -m nltk.downloader -d nltk_data punkt stopwords wordnet maxent_ne_chunker words averaged_perceptron_tagger
+
