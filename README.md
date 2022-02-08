@@ -64,3 +64,7 @@ Python: Select Interpreter (ctrl+shift+P)
 
 https://www.azuredevopslabs.com/labs/azuredevops/git/#task-2-reviewing-commits
 
+## 4. install the packages in requirements.txt file
+
+pip install --user -r requirements.txt
+
