@@ -66,7 +66,9 @@ https://www.azuredevopslabs.com/labs/azuredevops/git/#task-2-reviewing-commits
 
 ## 4. install the packages in requirements.txt file
 
-pip install --user -r requirements.txt
+1. pip install --user -r requirements.txt
+2. conda install --file requirements.txt
+3. conda install --force-reinstall -y -q --name [conda environment name] -c conda-forge --file requirements.txt
 
 ## 5. NLTK install
 
