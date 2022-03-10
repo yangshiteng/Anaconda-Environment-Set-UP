@@ -78,3 +78,6 @@ pip install -r requirements.txt
 
  python -m nltk.downloader -d nltk_data punkt stopwords wordnet maxent_ne_chunker words averaged_perceptron_tagger
 
+## 6. install packages with specified version
+
+pip install -Iv MySQL_python==1.2.2
