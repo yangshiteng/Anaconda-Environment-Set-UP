@@ -56,6 +56,8 @@ https://code.visualstudio.com/docs
 
 https://code.visualstudio.com/docs/python/environments
 
+https://www.roelpeters.be/virtualenv-venv-choose-python-version/
+
 python -m venv [environment name]
 
 ## 2. Select Interpreter
